@@ -1,0 +1,11 @@
+Campo,Tipo_Dato
+fecha_transaccion,timestamp
+cod_canal,double
+tipo_doc,string
+num_doc,bigint
+naturaleza,string
+monto,double
+tipo_persona,string
+ingresos_mensuales,double
+tipo,string
+cod_jurisdiccion,int
